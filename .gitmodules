@@ -1,6 +1,8 @@
 [submodule "framework"]
 	path = framework
-	url = https://github.com/Mbed-TLS/mbedtls-framework
+	url = https://github.com/Core-2-Extreme/mbedtls-framework_for_3DS
+	branch = 3ds
 [submodule "mldsa-native"]
 	path = drivers/pqcp/mldsa-native
-	url = https://github.com/Mbed-TLS/mldsa-native
+	url = https://github.com/Core-2-Extreme/mldsa-native_for_3ds
+	branch = 3ds
